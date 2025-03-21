@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+  }
+  
+.swiper {
+  width: 100%;
+  height: auto;
+}
+
+.swiper img {
+    height: 100vh;
+    width: auto; 
+    object-fit: contain; 
+    display: block; 
+    margin: 0 auto;
+}
