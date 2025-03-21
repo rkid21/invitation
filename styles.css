@@ -1,5 +1,6 @@
 html, body {
     margin: 0;
+    background-color: #000;
   }
   
 .swiper {
@@ -9,7 +10,7 @@ html, body {
 
 .swiper img {
     height: 100vh;
-    width: auto; 
+    width: 100%; 
     object-fit: contain; 
     display: block; 
     margin: 0 auto;
